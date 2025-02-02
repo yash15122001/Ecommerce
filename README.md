@@ -38,7 +38,7 @@ ecommerce/
 ## 🚀 **Getting Started**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/ecommerce-mern.git
+git clone https://github.com/yash15122001/Ecommerce.git
 cd ecommerce
 ```
 
